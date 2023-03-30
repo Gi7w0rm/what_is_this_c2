@@ -291,6 +291,9 @@ Hijalyh:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/hijalyh.png "Hijalyh")
 
+HookBot:
+![alt_text](https://github.com/misterch0c/what_is_this_c3/blob/master/images/HookBot.png "HookBot")
+
 HVNC: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/DarkVnc.png "HVNC")
